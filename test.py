@@ -1,1 +1,1 @@
-print("Data Science Wallah is the best")
+print("Data Science Wallah")
